@@ -1,5 +1,5 @@
 # typescript-leetcode
-用Typescript刷一遍leetcode笔试面试高频题。持续更新...
+用Typescript刷一遍leetcode笔试面试高频题。持续更新... by YAYang
 
 ## 已解题目： 
 
