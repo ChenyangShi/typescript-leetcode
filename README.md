@@ -1,6 +1,6 @@
 # typescript-leetcode
 用Typescript刷一遍leetcode面试高频题。缓慢持续更新。
-
+[toc]
 # 已解题目： 
 ## 前端高频的-数组
 ### 原地哈希
