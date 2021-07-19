@@ -1,5 +1,4 @@
 # typescript-leetcode
-用Typescript刷一遍leetcode面试高频题。缓慢持续更新。
 
 # 已解题目：（基本都没有发上来） 
 - 前端高频的-数组
